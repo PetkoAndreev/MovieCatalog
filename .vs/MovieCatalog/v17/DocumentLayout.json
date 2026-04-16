@@ -1,0 +1,75 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\softuni\\qa-back-end-test-automation\\exam-tests\\202604 - Regular\\MovieCatalog\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9F413B30-49E5-403C-89DA-4C5885CDE4C1}|MovieCatalog\\MovieCatalog.csproj|d:\\softuni\\qa-back-end-test-automation\\exam-tests\\202604 - regular\\moviecatalog\\moviecatalog\\moviecatalogapitests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9F413B30-49E5-403C-89DA-4C5885CDE4C1}|MovieCatalog\\MovieCatalog.csproj|solutionrelative:moviecatalog\\moviecatalogapitests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9F413B30-49E5-403C-89DA-4C5885CDE4C1}|MovieCatalog\\MovieCatalog.csproj|d:\\softuni\\qa-back-end-test-automation\\exam-tests\\202604 - regular\\moviecatalog\\moviecatalog\\models\\apiresponsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9F413B30-49E5-403C-89DA-4C5885CDE4C1}|MovieCatalog\\MovieCatalog.csproj|solutionrelative:moviecatalog\\models\\apiresponsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9F413B30-49E5-403C-89DA-4C5885CDE4C1}|MovieCatalog\\MovieCatalog.csproj|d:\\softuni\\qa-back-end-test-automation\\exam-tests\\202604 - regular\\moviecatalog\\moviecatalog\\models\\moviedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9F413B30-49E5-403C-89DA-4C5885CDE4C1}|MovieCatalog\\MovieCatalog.csproj|solutionrelative:moviecatalog\\models\\moviedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MovieDTO.cs",
+              "DocumentMoniker": "D:\\softuni\\qa-back-end-test-automation\\exam-tests\\202604 - Regular\\MovieCatalog\\MovieCatalog\\Models\\MovieDTO.cs",
+              "RelativeDocumentMoniker": "MovieCatalog\\Models\\MovieDTO.cs",
+              "ToolTip": "D:\\softuni\\qa-back-end-test-automation\\exam-tests\\202604 - Regular\\MovieCatalog\\MovieCatalog\\Models\\MovieDTO.cs",
+              "RelativeToolTip": "MovieCatalog\\Models\\MovieDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-16T11:09:38.286Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ApiResponseDTO.cs",
+              "DocumentMoniker": "D:\\softuni\\qa-back-end-test-automation\\exam-tests\\202604 - Regular\\MovieCatalog\\MovieCatalog\\Models\\ApiResponseDTO.cs",
+              "RelativeDocumentMoniker": "MovieCatalog\\Models\\ApiResponseDTO.cs",
+              "ToolTip": "D:\\softuni\\qa-back-end-test-automation\\exam-tests\\202604 - Regular\\MovieCatalog\\MovieCatalog\\Models\\ApiResponseDTO.cs",
+              "RelativeToolTip": "MovieCatalog\\Models\\ApiResponseDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-16T11:08:29.53Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MovieCatalogApiTests.cs",
+              "DocumentMoniker": "D:\\softuni\\qa-back-end-test-automation\\exam-tests\\202604 - Regular\\MovieCatalog\\MovieCatalog\\MovieCatalogApiTests.cs",
+              "RelativeDocumentMoniker": "MovieCatalog\\MovieCatalogApiTests.cs",
+              "ToolTip": "D:\\softuni\\qa-back-end-test-automation\\exam-tests\\202604 - Regular\\MovieCatalog\\MovieCatalog\\MovieCatalogApiTests.cs",
+              "RelativeToolTip": "MovieCatalog\\MovieCatalogApiTests.cs",
+              "ViewState": "AgIAAKcAAAAAAAAAAAAYwL4AAACEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-16T11:05:21.658Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
