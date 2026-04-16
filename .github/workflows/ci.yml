@@ -1,0 +1,30 @@
+name: MovieCatalogWorkflow
+
+on:
+  push:
+    branches: [ "main" ]
+
+jobs:
+  build-test:
+    runs-on: ubuntu-latest
+
+    env:
+      TEST_USER_EMAIL:     ${{ secrets.TEST_USER_EMAIL }}
+      TEST_USER_PASSWORD:  ${{ secrets.TEST_USER_PASSWORD }}
+      BASE_URL:            ${{ secrets.BASE_URL }}
+
+    steps:
+    - uses: actions/checkout@v4
+
+    - uses: actions/setup-dotnet@v4
+      with:
+        dotnet-version: 8.x
+
+    - name: Restore dependencies
+      run: dotnet restore
+
+    - name: Build
+      run: dotnet build --configuration Release --no-restore
+
+    - name: Test
+      run: dotnet test --configuration Release --no-build
